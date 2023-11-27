@@ -17,7 +17,7 @@ public class Prac{
 
     public static void main(String[] args) {
         Scanner sc= new Scanner(System.in);
-        int size=sc.nextInt();// Jab bhi input lena ho jo bhi cheez yaad rkhna scanner ke object ko.
+        int size=sc.nextInt();
         int [] result=new int[size];
         for(int i=0; i<size; i++){
             result[i]=sc.nextInt();

@@ -1,4 +1,4 @@
-class Prac1 {
+class Remove_Duplicates {
     public int removeDuplicates(int[] nums) {
         int k=1;
         // This is because atleast one number is unique and we need to check others.

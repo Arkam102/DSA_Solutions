@@ -1,4 +1,4 @@
-public class Prac1{
+public class Buy_Sell{
     public int maxProfit(int[] prices) {
         int max=0;
         int n=prices.length;
